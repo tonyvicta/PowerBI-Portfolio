@@ -29,3 +29,12 @@ Visit my website: https://datasphered.com
 Connect on LinkedIn: https://linkedin.com/in/tonytawakali/
 
 * © 2026 Tony Tawakali. All rights reserved
+
+## Project 1: [Global Electronics Retailer](https://github.com/tonyvicta/Global-Electronics-Retailer)
+
+Global Electronics Retailer is a 3 page Power BI report built to showcase executive level and store level performance. It includes KPI tracking, YoY revenue variance analysis, top and bottom store comparisons, and a store drill through experience for detailed performance review.
+
+## Preview 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTNhZWQ2ZDAtMWUzZi00MDU1LWJkM2MtZmM2ZGYyMDk4NTU2IiwidCI6IjU1M2JkNGM5LTA3YTgtNGQyMy04ZDEyLWFkNzFkZWU3NGM3ZCJ9" target="_blank">
+  <img src="https://raw.githubusercontent.com/tonyvicta/Global-Electronics-Retailer/main/screenshots/ge_preview.gif" alt="Global Electronics report preview" width="800"/>
+</a>
