@@ -38,3 +38,12 @@ Global Electronics Retailer is a 3 page Power BI report built to showcase execut
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNTNhZWQ2ZDAtMWUzZi00MDU1LWJkM2MtZmM2ZGYyMDk4NTU2IiwidCI6IjU1M2JkNGM5LTA3YTgtNGQyMy04ZDEyLWFkNzFkZWU3NGM3ZCJ9" target="_blank">
   <img src="https://raw.githubusercontent.com/tonyvicta/Global-Electronics-Retailer/main/screenshots/ge_preview.gif" alt="Global Electronics report preview" width="800"/>
 </a>
+
+## Project 2: [Security Reference Data Quality](https://github.com/tonyvicta/Security-Reference-Data-Quality-and-SLA-Monitor)
+
+I built a small security reference data pipeline that ingests Bloomberg style attributes, runs data quality checks, and consolidates them into a Security Master. I also added an exception queue with SLA tracking and a Power BI dashboard to monitor open issues, breaches, and daily investigation workload.
+
+## Preview 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODc3YTNlMjMtOWQzYS00NjA1LWIxOGYtZmRiM2U2YmRjYmFjIiwidCI6IjU1M2JkNGM5LTA3YTgtNGQyMy04ZDEyLWFkNzFkZWU3NGM3ZCJ9" target="_blank">
+  <img src="https://raw.githubusercontent.com/tonyvicta/Security-Reference-Data-Quality-and-SLA-Monitor/main/docs/Security_Ref_Data.gif" alt="Data Quality Overview report preview" width="800"/>
+</a>
